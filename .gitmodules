@@ -1,0 +1,21 @@
+[submodule "calculator"]
+	path = calculator
+	url = git@github.com:ahfarmer/calculator.git
+[submodule "emoji-search"]
+	path = emoji-search
+	url = git@github.com:ahfarmer/emoji-search.git
+[submodule "SnapShot"]
+	path = SnapShot
+	url = git@github.com:Yog9/SnapShot.git
+[submodule "bmi-calculator"]
+	path = bmi-calculator
+	url = git@github.com:GermaVinsmoke/bmi-calculator.git
+[submodule "react-image-compressor"]
+	path = react-image-compressor
+	url = git@github.com:Rahul-Pandey7/react-image-compressor.git
+[submodule "counter-app"]
+	path = counter-app
+	url = git@github.com:arnab-datta/counter-app.git
+[submodule "react-tutorial-solutions"]
+	path = react-tutorial-solutions
+	url = git@github.com:harman052/react-tutorial-solutions.git
